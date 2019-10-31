@@ -7,7 +7,7 @@ A simple **KeyLogger** made with **Python**.
 
 <br/>
 
-### Use with <span style="color:red">caution</span> do not create problems, or try not to create. 🤣
+### Use with <span style="color:red">caution</span> do not create problems, or try not to create. 😂
 
 <br/>
 
