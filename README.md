@@ -3,6 +3,7 @@
 A simple **KeyLogger** made with **Python**. 
 
 - how to use?
+	>  Install ___pynput___ library with command: pip3 install pynput <br/>
 	>  Run ___keylogger.py___ and everything you type will be saved to log_result.txt file.
 
 <br/>
